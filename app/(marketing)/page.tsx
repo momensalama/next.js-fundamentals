@@ -19,7 +19,7 @@ export default async function LandingPage() {
               your projects with ease.
             </p>
             <div className="mt-10">
-              <Link href="/signup">
+              <Link href="/signin">
                 <Button size="lg">Get Started</Button>
               </Link>
             </div>
